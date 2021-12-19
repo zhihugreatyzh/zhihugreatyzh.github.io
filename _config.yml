@@ -1,7 +1,7 @@
 # Site settings
 title: theGreatYzh
 SEOTitle: theGreatYzh
-header-img: img/maintop.JPG
+header-img: image/maintop.JPG
 email: aayuzhenghao@icloud.com
 description: "Every failure is leading towards success."
 keyword: "theGreatYzh, iOS, Apple, iPhone, App"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/zhihugreatyzh/zhihugreatyzh.github.io.git" # yo
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Hi, I am theGreatYzh!"
-sidebar-avatar: /img/logo.png      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /image/logo.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
