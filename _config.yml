@@ -5,7 +5,7 @@ header-img: image/maintop.webp
 email: aayuzhenghao@icloud.com
 description: "Every failure is leading towards success."
 keyword: "theGreatYzh, iOS, Apple, iPhone, App"
-url: "http://zhihugreatyzh.github.io"          # your host, for absolute URL
+url: "https://www.thegreatyzh.xyz"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zhihugreatyzh/zhihugreatyzh.github.io.git" # you code repository
 
