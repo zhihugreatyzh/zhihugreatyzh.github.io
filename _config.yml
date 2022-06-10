@@ -78,13 +78,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "theGreatYzh ✨",
+        title: "Zhihu ✨",
         href: "https://www.zhihu.com/people/thegreatyzh"
     },{
         title: "Apple 💻",
         href: "https://apple.com"
     },{
-        title: "Donate 💰",
-        href: "https://www.thegreatyzh.xyz/donate.html"
+   #     title: "Donate 💰",
+  #      href: "https://www.thegreatyzh.xyz/donate.html"
     }
 ]
